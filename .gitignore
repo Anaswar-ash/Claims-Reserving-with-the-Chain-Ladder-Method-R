@@ -1,0 +1,31 @@
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Rproj.user/
+
+# R Markdown cache
+*_cache/
+/cache/
+
+# Knitr directory
+/figure/
+/knit_cache/
+
+# R Studio files
+.rstudio-desktop
+
+# Environment files
+.Renviron
+
+# Generated output files
+*.html
+*.pdf
+*.png
+*.jpg
+*.csv
