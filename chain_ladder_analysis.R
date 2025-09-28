@@ -8,7 +8,7 @@ if (!require("ChainLadder")) {
 }
 library(ChainLadder)
 
-cat("---"Chain-Ladder Analysis Initialized ---"\n\n")
+cat("---"chain-Ladder Analysis Initialized ---"\n\n")
 
 # --- 2. LOAD DATA ---
 # The 'ChainLadder' package comes with sample datasets. We will use `RAA`,
